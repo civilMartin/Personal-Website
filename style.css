@@ -1,0 +1,15 @@
+body {
+	background-color: lightblue;
+}
+h1 {
+	color: rgb(204,124,21);
+	color: orange;
+	margin-left: 20px ;
+	border: 2px solid white;
+
+
+}
+h2:hover {
+	background-color: lightgray;
+	color: brown;
+}
